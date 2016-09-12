@@ -1,0 +1,13 @@
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\TheBindingOfIsaacModConverter.exe.config
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\TheBindingOfIsaacModConverter.exe
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\TheBindingOfIsaacModConverter.pdb
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MetroFramework.Design.dll
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MetroFramework.dll
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Magick.NET-Q16-AnyCPU.xml
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TheBindingOfIsaacModConverter.Properties.Resources.resources
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TheBindingOfIsaacModConverter.exe
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TheBindingOfIsaacModConverter.pdb
